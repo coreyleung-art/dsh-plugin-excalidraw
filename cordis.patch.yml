@@ -1,0 +1,4 @@
+- insert:
+    - id: excalidraw
+      name: dsh-plugin-excalidraw
+      config: {}
